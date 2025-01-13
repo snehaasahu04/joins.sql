@@ -1,4 +1,4 @@
-# README for SAMPLE_DATASET SQL Scripts
+# SAMPLE_DATASET SQL Scripts
 
 ## Overview
 This project contains SQL scripts to create a sample dataset for practicing SQL queries. The dataset consists of four tables:
